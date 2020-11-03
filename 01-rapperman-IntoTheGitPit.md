@@ -1,6 +1,7 @@
 # Into the Git Pit
 
-```Hey, yeah,
+```
+Hey, yeah,
 
 I'm rapping about Git,
 
@@ -12,4 +13,5 @@ don't be scared to lose it - use it!
 
 I can't really rap,
 
-so I'll stop this crap.```
+so I'll stop this crap.
+```
