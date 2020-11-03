@@ -1,7 +1,7 @@
 # GitParty
 
 
-```hola hola,
+``` hola hola,
 no espaniola!
 
 It's a big Git Party,
